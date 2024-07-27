@@ -1,2 +1,2 @@
-# nigeria.github.io
+# uab.github.io
 Personal webpage
